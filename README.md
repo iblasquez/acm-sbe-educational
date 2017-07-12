@@ -5,10 +5,11 @@ This repository details the validation process of the paper *Specification By Ex
 **Abstract :**
 *The [Specification By Example](https://gojko.net/books/specification-by-example/) (SBE) is a guideline for building the right software, a software that meets customer requirements. It is based on seven process patterns and enhances communication and collaboration and it usually is used in agile software development. The connection between education and agile software development sounds actually as an emergent topic. In this paper, we propose to structure a teaching approach in analogy to an agile software developement by transposing each process pattern of SBE to a corresponding one in the teaching domain. Moreover, we show that thanks to the emergence of a collective intelligence process, the students are more confident and more responsible. Such a course offers the opportunity to learn not only technical skills, but also some values in a new mindset.*
 
-The paper will be soon available [here](http://dl.acm.org/).
+
+The paper is available [here](http://dl.acm.org/citation.cfm?id=3059039).
 
 
-In this repository, you find :
+In this repository, you can find :
 
 
 * [Overview of the paper](#overview)  
